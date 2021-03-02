@@ -1,0 +1,29 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m" controllerName="MEDIOS_EKT.controller.ReporteDescuentos"
+    xmlns:html="http://www.w3.org/1999/xhtml">
+    <Page title="Folios">
+        <content>
+            <Table id="idTable" mode="SingleSelectLeft">
+                <columns>
+                    <Column><Text text="Jerarquías" /></Column>
+                    <Column><Text text="Proveedor" /></Column>
+                    <Column><Text text="Atributo" /></Column>
+                    <Column><Text text="Marca" /></Column>
+                    <Column><Text text="Tipo de Descuento" /></Column>
+                    <Column><Text text="Descuento contado" /></Column>
+                    <Column><Text text="Descuento crédito" /></Column>
+                    <Column><Text text="Promociones activas" /></Column>
+                    <Column><Text text="Costo sim impuesto" /></Column>
+                    <Column><Text text="Precio chaz actual" /></Column>
+                    <Column><Text text="Cto. Actual Crédito" /></Column>
+                    <Column><Text text="Neg. Compras" /></Column>
+                    <Column><Text text="Neg. Vta. contado" /></Column>
+                    <Column><Text text="Neg. Vta. Crédito" /></Column>
+                    <Column><Text text="Cto. Simulado contado" /></Column>
+                    <Column><Text text="Precio A contado" /></Column>
+                    <Column><Text text="Cto. Simulado Crédito" /></Column>
+                </columns>
+            </Table>
+        </content>
+    </Page>
+</core:FragmentDefinition>

@@ -1,0 +1,76 @@
+{
+    "resources": [
+        {
+            "name": "controller/Descuentos.controller.js"
+        },
+        {
+            "name": "controller/Plantillas.controller.js"
+        },
+        {
+            "name": "controller/ReporteDescuentos.controller.js"
+        },
+        {
+            "name": "controller/Folios.controller.js"
+        },
+        {
+            "name": "controller/StartPage.controller.js"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": ".user.project.json"
+        },
+        {
+            "name": "resources.json",
+            "merged": true
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "view/Folios.fragment.xml"
+        },
+        {
+            "name": "view/ReporteDescuentos.fragment.xml"
+        },
+        {
+            "name": "view/Plantillas.view.xml"
+        },
+        {
+            "name": "view/StartPage.view.xml"
+        },
+        {
+            "name": "view/Descuentos.view.xml"
+        },
+        {
+            "name": ".project.json"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "webapp/localService/ZMEDIOS_SRV/metadata.xml"
+        },
+        {
+            "name": "webapp/localService/metadata.xml"
+        }
+    ]
+}
